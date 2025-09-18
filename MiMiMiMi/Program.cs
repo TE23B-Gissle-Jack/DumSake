@@ -14,7 +14,7 @@ Console.WriteLine(Obscure("Bögarnas fel"));
 Console.ReadLine();
 
 
-
+//BOOM
 
 void Star()
 {
